@@ -1,5 +1,5 @@
 # SmartSolarProject
-This is a project from the (Tauranga Web Meetup group) [http://www.meetup.com/TaurangaWeb/]
+This is a project from the [Tauranga Web Meetup group](http://www.meetup.com/TaurangaWeb/)
 We're using it mainly as a learning and communications project, and as a good reason to actually have our monthly meetups =)
 Aside from that purpose, it is also intended to be actually useful - it will allow the control of a Solar Water Heater to minimise electricity costs.
 
